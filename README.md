@@ -6,5 +6,5 @@ Line 4 <Made Changes on Local>
 
 
 
-
-Line 10 <Made Changes on Remote>
+Line 9
+Line 10 `<Made Changes on Remote>`
