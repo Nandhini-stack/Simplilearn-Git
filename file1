@@ -7,3 +7,5 @@ Hi, Checking stashing in git
 
 
 git stash save <message>
+
+Trying Rebasing
