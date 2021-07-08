@@ -5,7 +5,7 @@ Line 4 `<Made Changes on Local>` `Creating CONFLICT`
 Line 5
 
 
-
+Line 8
 Line 9
 Line 10 `<Made Changes on Remote>`
 
