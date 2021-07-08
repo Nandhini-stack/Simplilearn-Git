@@ -1,0 +1,6 @@
+Hi, Checking stashing in git
+
+git stash
+git stash list
+git stash apply
+git stash pop command
